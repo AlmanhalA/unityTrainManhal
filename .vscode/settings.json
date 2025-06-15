@@ -56,5 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Almanhal.sln"
+    "dotnet.defaultSolution": "Almanhal.sln",
+    "dotnet.preferCSharpExtension": true,
+    "git.ignoreLimitWarning": true
 }
